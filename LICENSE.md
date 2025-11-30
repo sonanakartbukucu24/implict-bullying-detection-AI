@@ -1,6 +1,6 @@
 # Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License
 
-Copyright (c) [2025] [İsim veya Organizasyon]
+Copyright (c) [2025] [Ali Hamza Anaç and Musab Efe Deniz]
 
 ---
 
@@ -56,4 +56,5 @@ When you share or adapt the material, you must provide:
 For any questions regarding this license or permissions beyond the scope of this license, please contact:
 
 [Ali Hamza Anaç and Musab Efe Deniz]  
+
 [alihamzaanac.66@gmail.com - musabefe24@gmail.com ]
